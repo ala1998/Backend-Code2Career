@@ -1,4 +1,3 @@
-// import nodeHttp = require("node:http");
 import http = require("node:http");
 import { IncomingMessage, ServerResponse } from "node:http";
 const PORT = 3000;
